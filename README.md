@@ -29,24 +29,10 @@ This project is licensed under MIT License. See the [LICENSE](https://github.com
 
 > [!NOTE]
 > If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
-
+This project is based on the work of [jtaveres](https://github.com/jtaveres). Thank you for your contribution!
 <a href="https://github.com/jotavare/42-resources/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=jotavare/42-resources" />
 </a>
-
-- - - -
-
-<h1 align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/resources/github_resources_banner_information.png">
-</h1>
-
-<p align="center">
-	<a href="#trivia">Trivia</a> •
-	<a href="#rewards">Rewards</a> •
-	<a href="#network">Network</a> •
-	<a href="#social">Social</a> •
-	<a href="#--">Scroll To Top</a>
-</p>
 
 ### **Trivia**
 
