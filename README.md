@@ -28,8 +28,9 @@ Here, you’ll find a set of resources that proved helpful during my time at 42 
 This project is licensed under MIT License. See the [LICENSE](https://github.com/jotavare/42-resources/blob/main/LICENSE) file for details.
 
 > [!NOTE]
+> This project is based on the work of [jtaveres](https://github.com/jtaveres). Thank you for your contribution
 > If you find any issues or have suggestions for improvements, feel free to open an issue, submit a pull request or contact me. Thank you to everyone who contributed!
-This project is based on the work of [jtaveres](https://github.com/jtaveres). Thank you for your contribution!
+!
 <a href="https://github.com/jotavare/42-resources/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=jotavare/42-resources" />
 </a>
